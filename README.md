@@ -1,3 +1,2 @@
-# python
-Python
-Network info
+# ip_info
+Show ip info
