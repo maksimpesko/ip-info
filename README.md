@@ -1,2 +1,3 @@
 # ip_info
-Show ip info
+Show network info
+
